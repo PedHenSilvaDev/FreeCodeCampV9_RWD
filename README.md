@@ -1,9 +1,6 @@
-# Responsive Web Design - [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design-v9/) (v9)
+# 🌐 Responsive Web Design - freeCodeCamp (v9)
 
-Este repositório contém as soluções dos desafios, exercícios e os **5 projetos principais** desenvolvidos durante o curso.
-
-## 🎯 Objetivo
-O objetivo deste curso é dominar a criação de interfaces modernas, acessíveis e responsivas para web, utilizando as tecnologias fundamentais de front-end.
+Este curso ensina os fundamentos de **HTML** e **CSS**, incluindo layout moderno, design, acessibilidade e desenvolvimento web responsivo. Você criará projetos práticos e adquirirá as habilidades necessárias para criar páginas da web profissionais e fáceis de usar.
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5:** Estruturação semântica de páginas web.
@@ -14,8 +11,11 @@ O objetivo deste curso é dominar a criação de interfaces modernas, acessívei
 ## 🚀 Projetos Desenvolvidos
 Cada projeto abaixo demonstra a aplicação dos conceitos aprendidos em módulos específicos:
 
-1. **[Página de Tributo]** - *Foco em HTML e CSS básico.*
-2. **[Formulário de Pesquisa]** - *Foco em formulários e inputs.*
-3. **[Landing Page de Produto]** - *Foco em layout e design responsivo.*
-4. **[Página de Documentação Técnica]** - *Foco em navegação e acessibilidade.*
-5. **[Portfólio Pessoal]** - *Foco em estrutura completa e boas práticas.*
+- [ ] **Página de Tributo** - *Foco em HTML e CSS básico.*
+- [ ] **Formulário de Pesquisa** - *Foco em formulários e inputs.*
+- [ ] **Landing Page de Produto** - *Foco em layout e design responsivo.*
+- [ ] **Página de Documentação Técnica** - *Foco em navegação e acessibilidade.*
+- [ ] **Portfólio Pessoal** - *Foco em estrutura completa e boas práticas.*
+
+---
+*Repositório criado para acompanhar a certificação do freeCodeCamp.*
