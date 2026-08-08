@@ -1,0 +1,73 @@
+<!-- 
+The link element is used to link to external resources like stylesheets and site icons. 
+Here is the basic syntax for using the link element for an external CSS file: 
+-->
+<link rel="stylesheet" href="./styles.css" />
+
+<!-- 
+The link element should be placed inside the 
+head element as seen in the following example: 
+-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<!-- 
+Oftentimes you will see multiple link elements inside a professional 
+codebase that link to different stylesheets, fonts, and icons. 
+Here is an example of using the link element to link to an external Google Font called Playwrite Cuba: 
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link 
+    rel="stylesheet" 
+    href="https://fonts.googleapis.com/css2?family=Playwrite+CU:wgth@100..400&display=swap" 
+>
+
+<!-- 
+Another common use case for the link element is to link to icons. 
+Here is an example of linking to a favicon: 
+-->
+<link rel="icon" href="favicon.ico">
+
+<!-- 
+A boilerplate includes the basic structure and 
+essential elements every HTML document needs. 
+-->
+
+<!-- 
+First, there is the DOCTYPE declaration:
+It tells browsers which version of HTML you're using 
+-->
+<!DOCTYPE html>
+
+<!-- 
+Next, comes the html tag:
+This wraps around all your content and can specify the language of your page. 
+Inside the html tag, you'll find two main sections, a head and a body: 
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--Important metadata goes here-->
+  </head>
+  <body>
+    <!--Headings, paragraphs, images, etc. go inside here-->
+  </body>
+</html>
+
+<!--
+Your site's metadata, contained in meta elements, 
+has details about things like character encoding, 
+and how websites like Twitter should preview your page's link. 
+Your site's title, found in the title element, 
+determines the text that appears in the browser tab or window. 
+Finally, you'll link your page's external stylesheets in the head using link elements.
+
+For each new project you create, you should include this 
+meta element with the charset attribute set to UTF-8. 
+-->
