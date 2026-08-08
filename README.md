@@ -1,4 +1,4 @@
-# 🌐 Responsive Web Design - freeCodeCamp (v9)
+# 🌐 Responsive Web Design v9 - [freeCodeCamp](https://www.freecodecamp.org/learn)
 
 Este curso ensina os fundamentos de **HTML** e **CSS**, incluindo layout moderno, design, acessibilidade e desenvolvimento web responsivo. Você criará projetos práticos e adquirirá as habilidades necessárias para criar páginas da web profissionais e fáceis de usar.
 
